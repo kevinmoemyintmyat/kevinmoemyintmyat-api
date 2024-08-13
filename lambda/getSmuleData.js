@@ -14,5 +14,5 @@ async function getSmuleData({ offset, limit }) {
 }
 
 module.exports = {
-  getSmuleData,
+  getSmuleData
 };
