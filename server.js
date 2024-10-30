@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const { router } = require("./routes");
 
 const server = express();
-const PORT = 10000;
+const PORT = process.env.PORT || 10000;
 
 dotenv.config();
 
