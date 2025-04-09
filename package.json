@@ -10,7 +10,6 @@
 	"author": "m3yevn",
 	"license": "ISC",
 	"dependencies": {
-		"axios": "^1.7.3",
 		"body-parser": "^1.20.2",
 		"cors": "^2.8.5",
 		"dotenv": "^16.4.5",
@@ -24,8 +23,8 @@
 	"techStacks": [
 		"ExpressJS",
 		"Axios",
-		"Render"
+		"Vercel"
 	],
-	"publicUrl": "https://kevinmoemyintmyat-api.onrender.com",
+	"publicUrl": "https://kevinmoemyintmyat-api.vercel.app",
 	"screenshots": []
 }
